@@ -1,6 +1,6 @@
 # End User License Agreement
 
-Last modified: June 03, 2018  
+Last modified: June 04, 2018  
 
 
 This End User License Agreement (this "License") is a legal agreement between you (either an individual or a single entity) and Jens Stroh ("Application Provider") regarding your use of  RecipeBook and RecipeBookLite (each, the "Application"). "You" or "your"  means you, the end user of the Application and licensee under this License. 
