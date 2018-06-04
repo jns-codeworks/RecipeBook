@@ -1,13 +1,13 @@
 # End User License Agreement
 
-Last modified: August 21, 2017  
+Last modified: June 03, 2018  
 
 
 This End User License Agreement (this "License") is a legal agreement between you (either an individual or a single entity) and Jens Stroh ("Application Provider") regarding your use of  RecipeBook and RecipeBookLite (each, the "Application"). "You" or "your"  means you, the end user of the Application and licensee under this License. 
 
 BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE APPLICATION YOU ARE AGREEING TO BE BOUND BY (I) THE TERMS OF THIS LICENSE, AND (II) APPLICATION PROVIDER’S PRIVACY POLICY, LOCATED AT
 
-https://github.com/jns-codeworks/RecipeBook/blob/master/privacy_policy.md
+ https://www.iubenda.com/privacy-policy/28248495 
 
 YOU AGREE TO ABIDE BY THE INTELLECTUAL PROPERTY LAWS AND ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT INSTALL OR USE THE APPLICATION.
 
@@ -45,7 +45,7 @@ TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL APPLICATION PROVIDER BE L
 
 You acknowledge that when you download, install, or use the Application, Application Provider may use automatic means (including, for example, cookies and web beacons) to collect information about your mobile device and about your use of the Application. You also may be required to provide certain information about yourself as a condition to downloading, installing, or using the Application or certain of its features or functionality, and the Application may provide you with opportunities to share information about yourself with others. All information we collect through or in connection with the Application is subject to our Privacy Policy, found at 
 
-https://github.com/jns-codeworks/RecipeBook/blob/master/privacy_policy.md
+ https://www.iubenda.com/privacy-policy/28248495 
 
 By downloading, installing, using, and providing information to or through the Application, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy. You further agree that the Privacy Policy is subject to change by Application Provider at any time.
 
